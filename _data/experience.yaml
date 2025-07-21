@@ -1,0 +1,19 @@
+experiences:
+
+- place: "University of Zurich"
+  time: "2024 - now"
+  title: "Ph.D. student"
+  subtitle: "ALPI Lab, Autonomous Learning and Predictive Intelligence Lab"
+  category: "work"
+
+- place: "University of Mannheim"
+  time: "2018 - 2024"
+  title: "student"
+  subtitle: "Mathematics <br/> with honors"
+  category: "school"
+
+- place: "adago"
+  time: "2022 - 2024"
+  title: "working Student"
+  subtitle: "Data Scientist"
+  category: "work"

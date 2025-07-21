@@ -1,0 +1,8 @@
+source:      .
+destination: ./_site
+includes:    ./_includes
+baseurl: /tfreihaut
+
+collections:
+  projects:
+    output: true
