@@ -1,6 +1,7 @@
 source:      .
 destination: ./_site
 includes:    ./_includes
+title: Till Freihaut's Website
 baseurl: 
 
 collections:
